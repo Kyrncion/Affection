@@ -1,0 +1,2 @@
+# GarbageOS
+Because why not.
